@@ -7,8 +7,11 @@ If you would like to learn more about the process for this project, please view 
 
 Controls:
 Right Mouse Button: Reveal the Coyote
+
 Middle Mouse Button: Invert the mesh
+
 Enter: Expand the mesh
+
 CRTL: Particle effects
 
 This project was a great exploration in shader manipulation, and familiarizing ourselves with the Unity Environment.
